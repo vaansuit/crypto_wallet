@@ -1,0 +1,87 @@
+
+{
+    "language": "Português Brasil",
+    "@language":
+    {
+    "description": "Linguagem padrão"
+    }, 
+
+    "titleWalletPage": "Ativos em Cripto",
+    "@titleWalletPage":
+    {
+    "description":"Título do arquivo wallet_page.dart"
+    },
+
+    "subtitleWalletPage": "Valor total de criptomoedas.",
+    "@subtitleWalletPage":
+    {
+    "description": "Subtitulo do arquivo wallet_page.dart"
+    },
+
+    "firstIconTextBottomNavBar": "Portfólio",
+    "@firstIconTextBottomNavBar":
+    {
+    "description":"Texto do primeiro icone da barra de navegação inferior do arquivo wallet_page.dart"
+    },
+
+    "secondIconTextBottomNavBar": "Movimentações",
+    "@secondIconTextBottomNavBar":
+    {
+    "description":"Texto do primeiro icone da barra de navegação inferior do arquivo wallet_page.dart"
+    },
+
+    "descriptionConversionButton": "Converter Crypto",
+    "@descriptionConversionButton":
+    {
+    "description":"Texto do botão de conversão de moeda do arquivo crypto_details_conversion_button.dart"
+    },
+
+    "todayDetailsButtonsRow": "Hoje",
+    "@todayDetailsButtonsRow":
+    {
+    "description":"Texto do primeiro botão do arquivo details_buttons_row.dart"
+    },
+
+    "actualPriceDetaislPage": "Preço monetário atual",
+    "@actualPriceDetaislPage":
+    {
+    "description":"Title do primeiro ListTile do arquivo details_buttons_row.dart"
+    },
+
+    "percentVariationDetaislPage": "Variação do período selecionado",
+    "@actualPriceDetaislPage":
+    {
+    "description":"Title do segundo ListTile do arquivo details_buttons_row.dart"
+    },
+
+    "userQuantityDetaislPage": "Quantidade",
+    "@userQuantityDetaislPage":
+    {
+    "description":"Title do terceiro ListTile do arquivo details_buttons_row.dart"
+    },
+
+    "userCyrptoCurrencyValueAmountDetaislPage": "Valor",
+    "@userCyrptoCurrencyValueAmountDetaislPage":
+    {
+    "description":"Title do quarto ListTile do arquivo details_buttons_row.dart"
+    },
+
+    "cryptoValueSelectedDay": "Valor da moeda no período selecionado:",
+    "@cryptoValueSelectedDay":
+    {
+    "description":"Subitulo da página que se encontra nno arquivo crypt_details_body.dart"
+    },
+
+    "textAppBarDetailsPage": "Detalhes",
+    "@textAppBarDetailsPage":
+    {
+    "description":"Texto contido no arquivo crypto_details_appbar.dart"
+    }
+
+
+
+
+
+
+}
+

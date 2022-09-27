@@ -1,0 +1,15 @@
+{
+    "language": "English",
+    "titleWalletPage": "Crypto Assets",
+    "subtitleWalletPage": "Total value of cryptocurrencies.",
+    "firstIconTextBottomNavBar": "Portfolio",
+    "secondIconTextBottomNavBar": "Transactions",
+    "descriptionConversionButton": "Convert Crypto",
+    "todayDetailsButtonsRow": "Today",
+    "actualPriceDetaislPage": "Current monetary price",
+    "percentVariationDetaislPage": "Variation of the selected period",
+    "userQuantityDetaislPage": "Quantity",
+    "userCyrptoCurrencyValueAmountDetaislPage": "Value",
+    "cryptoValueSelectedDay": "Monetary value in the selected period:",
+    "textAppBarDetailsPage": "Details"
+}
